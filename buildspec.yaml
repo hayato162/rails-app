@@ -32,6 +32,4 @@ phases:
 
 artifacts:
   files:
-    - imagedefinitions.jsongit add .
-git commit -m "Initial commit"
-git push origin main
+    - imagedefinitions.json
